@@ -1,0 +1,3 @@
+Below is the command that can be used to forcefully delete pods in kubernetes
+
+kubectl delete pod <pod> --force --grace-period=0
